@@ -1,0 +1,1 @@
+### An Ecommerce Console Application that allows user to pick any product needed from the catalog list, displays the price of total item(s) chosen, and also checkout section.
