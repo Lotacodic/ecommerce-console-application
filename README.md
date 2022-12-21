@@ -4,7 +4,7 @@ This project is a simple E-commerce console App that allows user to pick any pro
 
 
 ### Usage
-- To use this project `clone` this it with this command below or any preferred method, cd into the `animal-kingdom-model` folder
+- To use this project `clone` with this command below or any preferred method, cd into the `ecommerce-console-application` folder
 ```
 git clone https://github.com/lotacodic/ecommerce-console-application.git
 ```
